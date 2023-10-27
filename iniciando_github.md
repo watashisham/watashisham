@@ -2,6 +2,8 @@
 ## Editor Online
 ✔ [Readme.SO](https://readme.so/pt/editor)
 
+✔ [Editor HTML](https://tiiny.host/test-html/)
+
 ## Crachá / Etiqueta
 ✔ [![Static Badge](https://img.shields.io/badge/Shields.io-%233CB371)](https://shields.io/badges/static-badge)
 
