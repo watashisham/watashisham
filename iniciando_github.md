@@ -12,6 +12,8 @@
 ## Código de Cores HTML
 ✔ [Código de Cores](https://html-color-codes.info/Codigos-de-Cores-HTML/)
 
+✔ [CSS Patterns](https://projects.verou.me/css3patterns/)
+
 ## Enfeites
 ✔ [👉Emoji👈](https://badgen.net/)
 
