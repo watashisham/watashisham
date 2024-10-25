@@ -13,10 +13,9 @@ JavaScript: Criando interatividade e explorando o dinamismo da web.
 
 📂 Projetos
 Aqui estão alguns dos meus projetos e experimentos recentes:
-Nome do Projeto 1: Breve descrição do que o projeto faz ou do que aprendi com ele.
-Nome do Projeto 2: Breve descrição do que o projeto faz ou do que aprendi com ele.
-Nome do Projeto 3: Breve descrição do que o projeto faz ou do que aprendi com ele.
-Cada projeto representa um passo na minha jornada e um aprendizado em minha formação como desenvolvedora.
+🐢TurtleTalk: site simples para troca de mensagens, comunicação online entre pessoas, com identificação pelo nick e cada nick com uma cor aleatória tornando assim algo mais diversificado.
+
+Cada projeto que irei postar aqui representa um passo na minha jornada e um aprendizado em minha formação como desenvolvedora.
 
 🌱 Um Pouco Mais
 💡 Estou sempre aberta a feedbacks e dicas para melhorar meus projetos e meu código.
